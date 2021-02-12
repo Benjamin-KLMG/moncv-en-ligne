@@ -1,0 +1,22 @@
+/* body{
+    background-color: aquamarine;
+} */
+
+.contenu{
+    width:500px;
+    margin: 10px auto;
+    background-color: lightskyblue;
+}
+
+
+.details{
+    background-color: lightpink;
+}
+
+.liste-details{
+    background-color: lightsalmon;
+}
+
+.cv-section{
+    background-color: lightseagreen;
+}
